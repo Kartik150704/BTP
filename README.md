@@ -25,9 +25,3 @@ This repository contains visualizations of Nash Equilibria derived from simulati
 
 These images and data serve as a visual aid for understanding strategic interactions in cybersecurity and game theory. They demonstrate how optimal strategies can vary based on different assumptions and models.
 
-## Usage
-These images can be used for educational purposes to explain the concept of Nash Equilibria in game theory, specifically in the context of cybersecurity. They are also useful for researchers or students involved in similar studies or for those developing algorithms in multi-player dynamic games.
-
----
-
-This format is simple and informative, catering to both technical and non-technical audiences. You might want to adjust the technical details depending on the exact content and context of your project or academic work.
